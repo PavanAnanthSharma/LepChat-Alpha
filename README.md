@@ -1,6 +1,6 @@
 ## LepChat-Alpha
 ```
-Dec/Editir: Pavan Ananth Sharma & Vaishnavi Sharma
+Dev/Editor: Pavan Ananth Sharma & Vaishnavi Sharma
 
 Note: The white sheet will be out soon.
 ```
