@@ -8,7 +8,7 @@
 </script>
 
 <header>
-<h1>LepChat</h1>
+<h2>LepChat | Decntralized chatting platform</h2>
   {#if $username}
     <div class="user-bio">
       
@@ -20,6 +20,6 @@
 
     {:else}
 
-      <h3>Powred by : Gun.js Chat</h3>
+      <h5>Powred by : Gun.js Chat</h5>
   {/if}
 </header>
