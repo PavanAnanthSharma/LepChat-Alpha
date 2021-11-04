@@ -8,7 +8,7 @@
 </script>
 
 <header>
-<h2>LepChat | Decntralized chatting platform</h2>
+<h3>LepChat | Decntralized chatting platform |</h3>
   {#if $username}
     <div class="user-bio">
       
